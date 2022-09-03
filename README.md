@@ -70,3 +70,6 @@ To have full access to the project and to be able to withdraw the credits a smal
  better button option's
 
  more config's for discord player
+
+
+https://discord.com/api/oauth2/authorize?client_id=1003522826348797992&permissions=8&scope=bot
